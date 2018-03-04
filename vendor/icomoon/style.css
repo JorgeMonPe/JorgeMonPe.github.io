@@ -1,0 +1,206 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?kqfwpc');
+  src:  url('fonts/icomoon.eot?kqfwpc#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?kqfwpc') format('truetype'),
+    url('fonts/icomoon.woff?kqfwpc') format('woff'),
+    url('fonts/icomoon.svg?kqfwpc#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-R_Studio .path1:before {
+  content: "\e905";
+  color: rgb(255, 255, 255);
+}
+.icon-R_Studio .path2:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(7, 63, 183);
+}
+.icon-R_Studio .path3:before {
+  content: "\e907";
+  margin-left: -1em;
+  color: rgb(27, 93, 195);
+}
+.icon-R_Studio .path4:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(42, 116, 204);
+}
+.icon-R_Studio .path5:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: rgb(78, 118, 180);
+}
+.icon-R_Studio .path6:before {
+  content: "\e90a";
+  margin-left: -1em;
+  color: rgb(57, 138, 212);
+}
+.icon-R_Studio .path7:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(104, 138, 211);
+}
+.icon-R_Studio .path8:before {
+  content: "\e90c";
+  margin-left: -1em;
+  color: rgb(68, 155, 219);
+}
+.icon-R_Studio .path9:before {
+  content: "\e90d";
+  margin-left: -1em;
+  color: rgb(124, 153, 217);
+}
+.icon-R_Studio .path10:before {
+  content: "\e90e";
+  margin-left: -1em;
+  color: rgb(106, 167, 222);
+}
+.icon-R_Studio .path11:before {
+  content: "\e90f";
+  margin-left: -1em;
+  color: rgb(90, 188, 232);
+}
+.icon-R_Studio .path12:before {
+  content: "\e910";
+  margin-left: -1em;
+  color: rgb(166, 186, 229);
+}
+.icon-R_Studio .path13:before {
+  content: "\e911";
+  margin-left: -1em;
+  color: rgb(111, 218, 239);
+}
+.icon-R_Studio .path14:before {
+  content: "\e912";
+  margin-left: -1em;
+  color: rgb(196, 209, 238);
+}
+.icon-R_Studio .path15:before {
+  content: "\e913";
+  margin-left: -1em;
+  color: rgb(179, 230, 244);
+}
+.icon-Arduino_fondo .path1:before {
+  content: "\e914";
+  color: rgb(255, 255, 255);
+}
+.icon-Arduino_fondo .path2:before {
+  content: "\e915";
+  margin-left: -1.4697265625em;
+  color: rgb(0, 151, 156);
+}
+.icon-Arduino_fondo .path3:before {
+  content: "\e916";
+  margin-left: -1.4697265625em;
+  color: rgb(85, 186, 189);
+}
+.icon-Arduino_fondo .path4:before {
+  content: "\e917";
+  margin-left: -1.4697265625em;
+  color: rgb(153, 213, 215);
+}
+.icon-Arduino_fondo .path5:before {
+  content: "\e918";
+  margin-left: -1.4697265625em;
+  color: rgb(221, 241, 242);
+}
+.icon-LaTeX-logo:before {
+  content: "\e919";
+}
+.icon-QGIS_logo .path1:before {
+  content: "\e91a";
+  color: rgb(0, 0, 0);
+  opacity: 0.3004;
+}
+.icon-QGIS_logo .path2:before {
+  content: "\e91b";
+  margin-left: -0.9072265625em;
+  color: rgb(0, 0, 0);
+}
+.icon-QGIS_logo .path3:before {
+  content: "\e91c";
+  margin-left: -0.9072265625em;
+  color: rgb(0, 0, 0);
+}
+.icon-QGIS_logo .path4:before {
+  content: "\e91d";
+  margin-left: -0.9072265625em;
+  color: rgb(0, 0, 0);
+}
+.icon-QGIS_logo .path5:before {
+  content: "\e91e";
+  margin-left: -0.9072265625em;
+  color: rgb(228, 243, 99);
+}
+.icon-QGIS_logo .path6:before {
+  content: "\e91f";
+  margin-left: -0.9072265625em;
+  color: rgb(255, 255, 255);
+  opacity: 0.3827;
+}
+.icon-QGIS_logo .path7:before {
+  content: "\e920";
+  margin-left: -0.9072265625em;
+  color: rgb(0, 0, 0);
+}
+.icon-QGIS_logo .path8:before {
+  content: "\e921";
+  margin-left: -0.9072265625em;
+  color: rgb(0, 0, 0);
+}
+.icon-raspberry-pi .path1:before {
+  content: "\e922";
+  color: rgb(0, 0, 0);
+}
+.icon-raspberry-pi .path2:before {
+  content: "\e923";
+  margin-left: -0.783203125em;
+  color: rgb(117, 169, 40);
+}
+.icon-raspberry-pi .path3:before {
+  content: "\e924";
+  margin-left: -0.783203125em;
+  color: rgb(188, 17, 66);
+}
+.icon-R-project .path1:before {
+  content: "\e900";
+  color: rgb(255, 255, 255);
+}
+.icon-R-project .path2:before {
+  content: "\e901";
+  margin-left: -1.2900390625em;
+  color: rgb(31, 101, 183);
+}
+.icon-R-project .path3:before {
+  content: "\e902";
+  margin-left: -1.2900390625em;
+  color: rgb(81, 135, 199);
+}
+.icon-R-project .path4:before {
+  content: "\e903";
+  margin-left: -1.2900390625em;
+  color: rgb(147, 147, 154);
+}
+.icon-R-project .path5:before {
+  content: "\e904";
+  margin-left: -1.2900390625em;
+  color: rgb(182, 184, 188);
+}
